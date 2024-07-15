@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Wedding/static/css/main.b7913e49.css",
-    "main.js": "/Wedding/static/js/main.11767bcf.js",
+    "main.css": "/Wedding/static/css/main.3a42185d.css",
+    "main.js": "/Wedding/static/js/main.458beeb9.js",
+    "static/media/1.jpg": "/Wedding/static/media/1.6ad43f652126471bf423.jpg",
+    "static/media/banner-1.jpg": "/Wedding/static/media/banner-1.4aa61d191930ae55ec71.jpg",
+    "static/media/banner-3.jpg": "/Wedding/static/media/banner-3.88eac96030dcf31bace7.jpg",
     "static/media/banner-2.jpg": "/Wedding/static/media/banner-2.51ae9d2a7106e3cbd9a6.jpg",
-    "static/media/1.jpg": "/Wedding/static/media/1.a429f58afcf56594dca2.jpg",
-    "static/media/banner-1.jpg": "/Wedding/static/media/banner-1.4213750cd879b539aad7.jpg",
-    "static/media/banner-3.jpg": "/Wedding/static/media/banner-3.5e10dcbd3db3c5b47a60.jpg",
     "static/media/where-3.jpg": "/Wedding/static/media/where-3.b0a204f7b46484fe0946.jpg",
     "static/media/where-2.jpg": "/Wedding/static/media/where-2.1f12a5cd2a1941f69537.jpg",
     "static/media/4.jpg": "/Wedding/static/media/4.68839da22b6d4d09a77f.jpg",
     "static/media/where-1.jpg": "/Wedding/static/media/where-1.72bfde4abe42e64b657f.jpg",
-    "static/media/wedding-logo.png": "/Wedding/static/media/wedding-logo.6990e6f82e41ed818f9c.png",
+    "static/media/wedding-logo.png": "/Wedding/static/media/wedding-logo.bb2096dbd628954b7717.png",
     "static/media/logo.png": "/Wedding/static/media/logo.c89c62cf4afa1505b090.png",
     "index.html": "/Wedding/index.html",
-    "main.b7913e49.css.map": "/Wedding/static/css/main.b7913e49.css.map",
-    "main.11767bcf.js.map": "/Wedding/static/js/main.11767bcf.js.map"
+    "main.3a42185d.css.map": "/Wedding/static/css/main.3a42185d.css.map",
+    "main.458beeb9.js.map": "/Wedding/static/js/main.458beeb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7913e49.css",
-    "static/js/main.11767bcf.js"
+    "static/css/main.3a42185d.css",
+    "static/js/main.458beeb9.js"
   ]
 }
