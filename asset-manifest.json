@@ -1,23 +1,31 @@
 {
   "files": {
     "main.css": "/Wedding/static/css/main.3a42185d.css",
-    "main.js": "/Wedding/static/js/main.458beeb9.js",
+    "main.js": "/Wedding/static/js/main.47ea8f2a.js",
+    "static/media/bride.jpg": "/Wedding/static/media/bride.4f64f8c5f2157bc605ae.jpg",
     "static/media/1.jpg": "/Wedding/static/media/1.6ad43f652126471bf423.jpg",
     "static/media/banner-1.jpg": "/Wedding/static/media/banner-1.4aa61d191930ae55ec71.jpg",
     "static/media/banner-3.jpg": "/Wedding/static/media/banner-3.88eac96030dcf31bace7.jpg",
     "static/media/banner-2.jpg": "/Wedding/static/media/banner-2.51ae9d2a7106e3cbd9a6.jpg",
+    "static/media/groom.jpg": "/Wedding/static/media/groom.326abf01603f9ccda37c.jpg",
+    "static/media/a.jpg": "/Wedding/static/media/a.f30d21cb8135d9e0b0e1.jpg",
+    "static/media/m6.jpg": "/Wedding/static/media/m6.176c366294c8939a0918.jpg",
     "static/media/where-3.jpg": "/Wedding/static/media/where-3.b0a204f7b46484fe0946.jpg",
     "static/media/where-2.jpg": "/Wedding/static/media/where-2.1f12a5cd2a1941f69537.jpg",
-    "static/media/4.jpg": "/Wedding/static/media/4.68839da22b6d4d09a77f.jpg",
+    "static/media/m2.jpg": "/Wedding/static/media/m2.7735c005383a4345a6b3.jpg",
     "static/media/where-1.jpg": "/Wedding/static/media/where-1.72bfde4abe42e64b657f.jpg",
+    "static/media/m1.jpg": "/Wedding/static/media/m1.c26bf4f5b8b9cab86297.jpg",
+    "static/media/m3.jpg": "/Wedding/static/media/m3.f546efa6930745d0e6a0.jpg",
+    "static/media/m4.jpg": "/Wedding/static/media/m4.86116fcff624e603bd66.jpg",
+    "static/media/m5.jpg": "/Wedding/static/media/m5.3a0b3eae09adc564c69a.jpg",
     "static/media/wedding-logo.png": "/Wedding/static/media/wedding-logo.bb2096dbd628954b7717.png",
     "static/media/logo.png": "/Wedding/static/media/logo.c89c62cf4afa1505b090.png",
     "index.html": "/Wedding/index.html",
     "main.3a42185d.css.map": "/Wedding/static/css/main.3a42185d.css.map",
-    "main.458beeb9.js.map": "/Wedding/static/js/main.458beeb9.js.map"
+    "main.47ea8f2a.js.map": "/Wedding/static/js/main.47ea8f2a.js.map"
   },
   "entrypoints": [
     "static/css/main.3a42185d.css",
-    "static/js/main.458beeb9.js"
+    "static/js/main.47ea8f2a.js"
   ]
 }
