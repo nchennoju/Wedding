@@ -20,8 +20,18 @@ function Where () {
               <img src={where1} alt='' />
             </div>
             <div className='content'>
-              <h5>Wedding Ceremony</h5>
+              <h5><a href="https://www.google.com/maps/place/The+Wedding+Bowl/@32.8441598,-117.2792049,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc03435d0ba36d:0x51bd66d95ca99684!8m2!3d32.8441598!4d-117.2792049!16s%2Fg%2F11n7n8jjc_?entry=ttu" rel="noreferrer" target="_blank">1st Ceremony</a></h5>
               <p>
+                1st Ceremony
+                <i className='ti-location-pin'></i> 175 Broadway, Brooklyn, New
+                York 11244, USA
+              </p>
+              <p>
+                <i className='ti-time'></i> <span>12:00am – 13:00pm</span>
+              </p>
+              <h5>2nd Ceremony</h5>
+              <p>
+                1st Ceremony
                 <i className='ti-location-pin'></i> 175 Broadway, Brooklyn, New
                 York 11244, USA
               </p>
@@ -33,10 +43,12 @@ function Where () {
           <div className='item col-12 col-md-4'>
             <div className='whenwhere-img'>
               {' '}
+              <a href="https://example.com/faq.html" rel="noreferrer" target="_blank">
               <img src={where2} alt='' />
+              </a>
             </div>
             <div className='content'>
-              <h5><a href="google.com">test</a>Accomodations</h5>
+              <h5><a href="https://example.com/faq.html" rel="noreferrer" target="_blank">Accomodations</a></h5>
               <p>
                 <i className='ti-location-pin'></i> Fortune Brooklyn restaurant,
                 149 Broadway, Brooklyn, NY, USA

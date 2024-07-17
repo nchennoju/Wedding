@@ -1,10 +1,10 @@
 import React from 'react'
-import gallery1 from '../assets/images/1.jpg'
-import gallery2 from '../assets/images/4.jpg'
-import gallery3 from '../assets/images/1.jpg'
-import gallery4 from '../assets/images/4.jpg'
-import gallery5 from '../assets/images/1.jpg'
-import gallery6 from '../assets/images/4.jpg'
+import gallery1 from '../assets/images/m1.jpg'
+import gallery2 from '../assets/images/m2.jpg'
+import gallery3 from '../assets/images/m3.jpg'
+import gallery4 from '../assets/images/m4.jpg'
+import gallery5 from '../assets/images/m5.jpg'
+import gallery6 from '../assets/images/m6.jpg'
 function Gallery () {
   return (
     <div id='gallery' className='section-padding'>
@@ -30,7 +30,7 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Wedding Ceremony</h4>
+                  <h4 className='mb-0'>Rocket Engine Test Fire</h4>
                 </div>
               </div>
             </a>
@@ -47,7 +47,7 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Wedding Party</h4>{' '}
+                  <h4 className='mb-0'>Rocket Launch</h4>{' '}
                 </div>
               </div>
             </a>
@@ -64,7 +64,7 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Wedding Ceremony</h4>{' '}
+                  <h4 className='mb-0'>Graduation</h4>{' '}
                 </div>
               </div>
             </a>
@@ -81,7 +81,7 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Wedding Party</h4>{' '}
+                  <h4 className='mb-0'>Summer 2023</h4>{' '}
                 </div>
               </div>
             </a>
@@ -98,7 +98,7 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Wedding Ceremony</h4>{' '}
+                  <h4 className='mb-0'>Fall 2023</h4>{' '}
                 </div>
               </div>
             </a>
@@ -115,7 +115,7 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Wedding Party</h4>{' '}
+                  <h4 className='mb-0'>Winter 2023</h4>{' '}
                 </div>
               </div>
             </a>

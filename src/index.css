@@ -1220,7 +1220,7 @@ body.slide .oliven-nav-toggle {
 /* ===== Organization style  ===== */
 .organization .bord-box {
   overflow: hidden;
-  background-image: url(./assets/images/1.jpg);
+  background-image: url(./assets/images/banner-4.jpg);
 }
 .organization .item-box {
   padding: 60px 30px;
@@ -1539,10 +1539,14 @@ body.slide .oliven-nav-toggle {
 /* ===== Footer style ===== */
 #rsvp {
     background-image: url(./assets/images/banner-2.jpg);
+    width: 100;
+}
+#rsvp_box {
+    background: rgba(250, 248, 247, 0.4);
 }
 .footer2 {
     padding: 90px 30px;
-    background: #faf8f7;
+    background: rgba(250, 248, 247, 0.4);
 }
 .footer2 img { 
     width: 90px;
@@ -1587,7 +1591,7 @@ body.slide .oliven-nav-toggle {
     color: #888;
 }
 .footer2 .copyright {
-    color: #888;
+    color: #000;
 }
 @media screen and (max-width: 768px) {
     .footer2 {
@@ -2020,4 +2024,9 @@ body.slide .oliven-nav-toggle {
         padding: 20px;
         margin: 0 15px;
     }
+}
+
+
+.content:hover h5 {
+    color: #BD945A;
 }
