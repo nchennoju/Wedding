@@ -45,6 +45,9 @@ function Sidebar () {
               <a href='#whenwhere'>When & Where</a>
             </li>
             <li>
+              <a href='#todo'>Things To Do</a>
+            </li>
+            <li>
               <a href='#rsvp'>R.S.V.P</a>
             </li>
           </ul>
@@ -57,7 +60,7 @@ function Sidebar () {
             <br />
             29 December 2024, California
             <br />
-            Website was made with love
+            Made by Chennoju-Hargrove
           </p>
         </div>
       </aside>

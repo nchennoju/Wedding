@@ -873,7 +873,7 @@ body.slide .oliven-nav-toggle {
     color: #fff;
 }
 .header.parallaxie {
-  background-image: url(./assets/images/1.jpg);
+  background-image: url(./assets/images/bg-1.jpg);
 }
 @media screen and (max-width: 991px) {
     .header {

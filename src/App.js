@@ -9,6 +9,7 @@ import Seeyou from './components/Seeyou';
 import Sidebar from './components/Sidebar';
 import Story from './components/Story';
 import Where from './components/Where';
+import Todo from './components/Todo';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         <Organization />
         <Gallery />
         <Where />
+        <Todo />
         <RSVP />
         <Footer />
       </div>
