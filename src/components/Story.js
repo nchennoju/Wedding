@@ -31,12 +31,17 @@ function Story () {
           <div className='col-md-7 animate-box'>
             <h4 className='oliven-story-subtitle'>Our love.</h4>
             <h3 className='oliven-story-title'>Our Story</h3>
-            <p>We met in college, drawn together by our shared passion for our school's rocket project. What began as a friendship, evolved into something far beyond either of us expected.</p>
-            <p>Our journey took a turn with an accidental date at Mendocino Farms, where hours melted away in conversation about our dreams. Beach dates and project meetings followed, intertwining our lives as we leaned on each other's strengths to navigate the challenges of school, the rocket project, and growing bond between us.</p>
-            <p>In early 2023, out in the California desert, we savored our first success as a couple—a triumphant test firing of our rocket engine. It was a moment of shared joy, a milestone that marked not only our project's progress but also our blossoming love.</p>
-            <p>Our test fire was shortly followed With the launch of our school's maiden liquid rocket. At the launch pad, amidst cheers and applause, we stole a moment to kiss, celebrating not just our achievement but the strength of our commitment to each other.</p>
-            <p>As the school year drew to a close, we faced the daunting task of securing jobs. We both found work in the rocket industry, a testament to our shared dedication and ambition. Yet, the challenge of being apart persisted, testing our resolve with each passing day. But through it all, we held fast to the belief that this separation was temporary, a mere chapter in our story.</p>
-            <p>And then, against all odds, fate intervened. Opportunities aligned, and we found ourselves reunited, this time not just for a fleeting moment but for a lifetime...</p>
+
+            <p>Our story started in 2021 during a Zoom orientation for the UC Irvine Rocket Project. When we first met, we were colleagues pursuing UCI’s first collegiate rocket launch but after many late project meetings and boba runs our relationship grew into a strong friendship.</p>
+
+            <p>Our first ‘date’ was supposed to be a quick hangout at the University Town Center that lasted 4 hours of us discussing our future goals and aspirations. Beach dates and project meetings followed as we leaned on each other's strengths to navigate the challenges of school, the rocket project, and growing our relationship.</p>
+
+            <p>Fast-forward to our senior year, we were excited for what the future would bring post launch and graduation around the corner. Amidst job applications and finals, we decided to continue our journey together and on June 16th, 2023, we walked down the aisle together for the first time and graduated with our Mechanical (Sky) and Computer Science (Nitish) engineering degrees.</p>
+
+            <p>Post graduation we faced a new challenge, continuing our relationship and beginning our careers with a time difference of 3 hours and just over 2.5k miles. After many late-night FaceTime calls and redeye flights, we said yes to forever on a romantic gondola ride in Newport Beach, CA on December 29th, 2023. The time of distance came to an end after one year with Nitish relocating to the Space Coast of FL to begin our next chapter together.</p>
+
+            <p>Our wedding day is not just about celebrating our love; it’s about joining our families together with the support of our loved ones. We can’t wait to celebrate the beginning of our next adventure with you!</p>
+
           </div>
         </div>
       </div>
