@@ -14,10 +14,10 @@ function RSVP () {
             <span className='oliven-title-meta text-center'>Will you attend?</span>
             <h2 className='oliven-title text-center'>R.S.V.P</h2>
             <br />
-            <form method='post' className='row'>
+            <form action='https://www.theknot.com/us/sky-hargrove-and-nitish-chennoju-dec-2024/rsvp' method='get' className='row'>
               <div className='col-md-12 text-center'>
                 <div className='form-group'>
-                  <input type='submit' className='btn buttono' value='FORM' />{' '}
+                  <input type='submit' className='btn buttono' value='FORM' />{''}
                 </div>
               </div>
             </form>

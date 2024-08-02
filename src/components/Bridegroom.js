@@ -22,9 +22,6 @@ function Bridegroom () {
                   </h6>{' '}
                   <span>The Bride</span>
                   <p>
-                    Olivia fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
                   </p>
                   <div className='social'>
                     <div className='full-width'>
@@ -62,9 +59,6 @@ function Bridegroom () {
                   </h6>{' '}
                   <span>The Groom</span>
                   <p>
-                    Enrico fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
                   </p>
                   <div className='social'>
                     <div className='full-width'>

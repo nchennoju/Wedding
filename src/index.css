@@ -875,6 +875,7 @@ body.slide .oliven-nav-toggle {
 .header.parallaxie {
   background-image: url(./assets/images/bg-1.jpg);
 }
+
 @media screen and (max-width: 991px) {
     .header {
         background-position: center center;
@@ -1414,7 +1415,7 @@ body.slide .oliven-nav-toggle {
     color: #888;
     font-style: italic;
 }
-.whenwhere .item .content .tag a:hover {
+.link a:hover {
     color: #BD945A;
 }
 .whenwhere .item .content h5 {
