@@ -45,6 +45,9 @@ function Sidebar () {
               <a href='#whenwhere'>When & Where</a>
             </li>
             <li>
+              <a href='#faq'>FAQs</a>
+            </li>
+            <li>
               <a href='#todo'>Things To Do</a>
             </li>
             <li>

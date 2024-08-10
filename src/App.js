@@ -10,6 +10,7 @@ import Sidebar from './components/Sidebar';
 import Story from './components/Story';
 import Where from './components/Where';
 import Todo from './components/Todo';
+import FAQ from './components/Faq';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Organization />
         <Gallery />
         <Where />
+        <FAQ />
         <Todo />
         <RSVP />
         <Footer />

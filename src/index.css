@@ -968,6 +968,13 @@ body.slide .oliven-nav-toggle {
     font-size: 18px;
     margin-bottom: 0;
 }
+.oliven-couple-subtitle-white {
+    color: #fff;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 0;
+}
 .oliven-title-meta {
     display: block;
     position: relative;
@@ -1287,6 +1294,12 @@ body.slide .oliven-nav-toggle {
 /* ======= See You style ======= */
 .seeyou {
   background-image: url(./assets/images/banner-3.jpg);
+}
+.faq {
+  background-image: url(./assets/images/footer.jpg);
+}
+.white-text {
+    color: #fff;
 }
 .seeyou .section-head span {
     color: #fff;
