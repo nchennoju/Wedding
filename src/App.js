@@ -11,6 +11,8 @@ import Story from './components/Story';
 import Where from './components/Where';
 import Todo from './components/Todo';
 import FAQ from './components/Faq';
+import Apparel from './components/Apparel';
+import Registry from './components/Registry';
 
 function App() {
   return (
@@ -25,6 +27,8 @@ function App() {
         <Organization />
         <Gallery />
         <Where />
+        <Apparel />
+        <Registry />
         <FAQ />
         <Todo />
         <RSVP />

@@ -19,7 +19,7 @@ function Gallery () {
       <div className='container'>
         <div className='row gallery-filter mt-3'>
           <div className='col-md-4 gallery-item ceremony'>
-            <a href='../assets/images/m1.jpg' className='img-zoom'>
+            <a className='img-zoom'>
               <div className='gallery-box'>
                 <div className='gallery-img'>
                   {' '}
@@ -30,13 +30,13 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Rocket Engine Test Fire</h4>
+                  <h4 className='mb-0'>Rocket Engine Test Fire 2023</h4>
                 </div>
               </div>
             </a>
           </div>
           <div className='col-md-4 gallery-item party'>
-            <a href='/' className='img-zoom'>
+            <a className='img-zoom'>
               <div className='gallery-box'>
                 <div className='gallery-img'>
                   {' '}
@@ -47,13 +47,13 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Rocket Launch</h4>{' '}
+                  <h4 className='mb-0'>Rocket Launch 2023</h4>{' '}
                 </div>
               </div>
             </a>
           </div>
           <div className='col-md-4 gallery-item ceremony'>
-            <a href='/' className='img-zoom'>
+            <a className='img-zoom'>
               <div className='gallery-box'>
                 <div className='gallery-img'>
                   {' '}
@@ -64,13 +64,13 @@ function Gallery () {
                   />{' '}
                 </div>
                 <div className='gallery-detail'>
-                  <h4 className='mb-0'>Graduation</h4>{' '}
+                  <h4 className='mb-0'>Graduation 2023</h4>{' '}
                 </div>
               </div>
             </a>
           </div>
           <div className='col-md-4 gallery-item party'>
-            <a href='/' className='img-zoom'>
+            <a className='img-zoom'>
               <div className='gallery-box'>
                 <div className='gallery-img'>
                   {' '}
@@ -87,7 +87,7 @@ function Gallery () {
             </a>
           </div>
           <div className='col-md-4 gallery-item ceremony'>
-            <a href='/' className='img-zoom'>
+            <a className='img-zoom'>
               <div className='gallery-box'>
                 <div className='gallery-img'>
                   {' '}
@@ -104,7 +104,7 @@ function Gallery () {
             </a>
           </div>
           <div className='col-md-4 gallery-item party'>
-            <a href='/' className='img-zoom'>
+            <a className='img-zoom'>
               <div className='gallery-box'>
                 <div className='gallery-img'>
                   {' '}

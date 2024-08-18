@@ -45,6 +45,12 @@ function Sidebar () {
               <a href='#whenwhere'>When & Where</a>
             </li>
             <li>
+              <a href='#apparel'>Apparel</a>
+            </li>
+            <li>
+              <a href='#registry'>Registry</a>
+            </li>
+            <li>
               <a href='#faq'>FAQs</a>
             </li>
             <li>

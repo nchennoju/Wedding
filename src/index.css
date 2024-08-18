@@ -1293,7 +1293,11 @@ body.slide .oliven-nav-toggle {
 
 /* ======= See You style ======= */
 .seeyou {
-  background-image: url(./assets/images/banner-3.jpg);
+    background-image: url(./assets/images/banner-3.jpg);
+  }
+.w_dress {
+background-image: url(./assets/images/guest_women.png);
+height: auto;
 }
 .faq {
   background-image: url(./assets/images/footer.jpg);
@@ -1318,6 +1322,32 @@ body.slide .oliven-nav-toggle {
     line-height: 1em;
 }
 .seeyou .section-head h4 {
+    position: relative;
+    color: #fff;
+    font-family: 'Alex Brush', cursive;
+    font-weight: 400;
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+
+.w_dress .section-head span {
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+.w_dress .section-head h3 {
+    display: block;
+    position: relative;
+    top: 12px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 0;
+    line-height: 1em;
+}
+.w_dress .section-head h4 {
     position: relative;
     color: #fff;
     font-family: 'Alex Brush', cursive;
@@ -1382,13 +1412,46 @@ body.slide .oliven-nav-toggle {
     transition: all 0.27s cubic-bezier(0.3, 0.1, 0.58, 1);
     text-align: center;
 }
+.gallery-box .gallery-detail-legible {
+    opacity: 0;
+    color: #FFF;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+    transition: all 0.27s cubic-bezier(0.3, 0.1, 0.58, 1);
+    text-align: center;
+}
 .gallery-box .gallery-detail h4 {
     font-family: 'Alex Brush', cursive;
     font-weight: 400;
     font-size: 24px;
     color: #fff;
 }
+.gallery-box .gallery-detail-legible h4 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #fff;
+}
+.gallery-box .gallery-detail-legible h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: #fff;
+}
+.gallery-box .gallery-detail-legible a {
+    font-family: 'Cormorant Garamond', serif;
+    color: #BD945A;;
+}
 .gallery-box .gallery-detail p {
+    font-family: 'Cormorant Garamond', serif;
+    color: #fff;
+}
+.gallery-box .gallery-detail-legible p {
+    font-family: 'Cormorant Garamond', serif;
     color: #fff;
 }
 .gallery-box:hover .gallery-detail {
@@ -1396,8 +1459,13 @@ body.slide .oliven-nav-toggle {
     transform: translate(0, -50%);
     opacity: 1;
 }
+.gallery-box:hover .gallery-detail-legible {
+    top: 50%;
+    transform: translate(0, -50%);
+    opacity: 1;
+}
 .gallery-box:hover .gallery-img:after {
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.6);
 }
 .gallery-box:hover .gallery-img>img {
     transform: scale(1.05);
@@ -1555,8 +1623,12 @@ body.slide .oliven-nav-toggle {
     background-image: url(./assets/images/banner-2.jpg);
     width: 100;
 }
+#registry {
+    background-image: url(./assets/images/costa_rica.jpg);
+    width: 100;
+}
 #rsvp_box {
-    background: rgba(250, 248, 247, 0.4);
+    background: rgba(250, 248, 247, 0.6);
 }
 .footer2 {
     padding: 90px 30px;

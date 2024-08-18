@@ -22,23 +22,8 @@ function Bridegroom () {
                   </h6>{' '}
                   <span>The Bride</span>
                   <p>
+                    Born and raised on the space coast of Florida, Sky loves going to the beach, playing with her ferrets, and watching launches. Fun fact: Sky was such a space nerd as a kid that she made a youtube channel on all things space. 1000 kudos for the first one to find it
                   </p>
-                  <div className='social'>
-                    <div className='full-width'>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-facebook'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-twitter'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-instagram'></i>{' '}
-                      </a>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
@@ -59,23 +44,8 @@ function Bridegroom () {
                   </h6>{' '}
                   <span>The Groom</span>
                   <p>
+                    Born and raised in Silicon Valley, Nitish loves watching the california sunsets, flying drones, and backpacking around New Mexico. Fun fact: Nitish is also a huge space nerd and has a passion for pyrotechnics resulting in an "alleged" dumpster fire.
                   </p>
-                  <div className='social'>
-                    <div className='full-width'>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-facebook'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-twitter'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-instagram'></i>{' '}
-                      </a>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>

@@ -15,28 +15,28 @@ function Organization () {
             <h2 className='custom-font numb'>01</h2>
             <h6 className='title'>1st Ceremony</h6>
             <p>
-              Meet us here
+              Culvier Park at 10:30am<br></br><br></br><br></br>
             </p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>02</h2>
-            <h6 className='title'>Lunch Time</h6>
+            <h6 className='title'>Brunch</h6>
             <p>
-              Bring your appetite
+              Join us after the ceremony at La Jolla Women's club for brunch served at 11:00am
             </p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>03</h2>
             <h6 className='title'>2nd Ceremony</h6>
             <p>
-              We're a family now
+              Begins at 1:30pm<br></br><br></br><br></br>
             </p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>04</h2>
             <h6 className='title'>Party</h6>
             <p>
-              Let's have some fun
+              Join us on the dance floor following the ceremony<br></br><br></br>
             </p>
           </div>
         </div>
