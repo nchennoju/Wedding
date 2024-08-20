@@ -34,7 +34,7 @@ function Seeyou () {
             <h4 className='oliven-couple-subtitle'>This is a morning wedding and will be ending at 5pm.</h4>
             <br></br>
             <h3><b>Am I allowed to take photos at the wedding?</b></h3>
-            <h4 className='oliven-couple-subtitle'>We kindly ask that you put away your phones during both ceremonies and please refrain from posting on social media until after the event has concluded.</h4>
+            <h4 className='oliven-couple-subtitle'>Please only take photos during the brunch and reception portions of the wedding. Refrain from using any electronics during ceremonies.</h4>
           </div>
         </div>
         
