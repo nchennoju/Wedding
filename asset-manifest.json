@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Wedding/static/css/main.9e18768d.css",
-    "main.js": "/Wedding/static/js/main.fb2b9008.js",
+    "main.css": "/Wedding/static/css/main.1c772db2.css",
+    "main.js": "/Wedding/static/js/main.9c262483.js",
     "static/media/guest_men.png": "/Wedding/static/media/guest_men.31169e00ad0edc09a1cd.png",
     "static/media/guest_women.png": "/Wedding/static/media/guest_women.bfe0c67955f77a0d4bc4.png",
     "static/media/bride.jpg": "/Wedding/static/media/bride.4f64f8c5f2157bc605ae.jpg",
@@ -15,6 +15,7 @@
     "static/media/banner-3.jpg": "/Wedding/static/media/banner-3.0ea97cd6e058b028ae2b.jpg",
     "static/media/footer.jpg": "/Wedding/static/media/footer.a65e1a5fd237b6e6c28b.jpg",
     "static/media/bg-2.jpg": "/Wedding/static/media/bg-2.69ecdf6d910528f3edd6.jpg",
+    "static/media/-Wedding-19.jpg": "/Wedding/static/media/-Wedding-19.a4c558502438252d73ee.jpg",
     "static/media/costa_rica.jpg": "/Wedding/static/media/costa_rica.d886b0e86c16299ca01f.jpg",
     "static/media/gaslamp.jpg": "/Wedding/static/media/gaslamp.00a4bee58098eeb6faff.jpg",
     "static/media/where-3.jpg": "/Wedding/static/media/where-3.9c8ea5527843f5c62ab8.jpg",
@@ -39,11 +40,11 @@
     "static/media/m6.jpg": "/Wedding/static/media/m6.f084c3aa9ef3b581bee1.jpg",
     "static/media/logo.png": "/Wedding/static/media/logo.c89c62cf4afa1505b090.png",
     "index.html": "/Wedding/index.html",
-    "main.9e18768d.css.map": "/Wedding/static/css/main.9e18768d.css.map",
-    "main.fb2b9008.js.map": "/Wedding/static/js/main.fb2b9008.js.map"
+    "main.1c772db2.css.map": "/Wedding/static/css/main.1c772db2.css.map",
+    "main.9c262483.js.map": "/Wedding/static/js/main.9c262483.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e18768d.css",
-    "static/js/main.fb2b9008.js"
+    "static/css/main.1c772db2.css",
+    "static/js/main.9c262483.js"
   ]
 }
