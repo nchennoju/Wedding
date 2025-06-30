@@ -57,7 +57,7 @@ function Sidebar () {
               <a href='#todo'>Things To Do</a>
             </li>
             <li>
-              <a href='#rsvp'>R.S.V.P</a>
+              <a href='#photos'>Photos</a>
             </li>
           </ul>
         </nav>

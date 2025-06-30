@@ -13,6 +13,7 @@ import Todo from './components/Todo';
 import FAQ from './components/Faq';
 import Apparel from './components/Apparel';
 import Registry from './components/Registry';
+import Photos from './components/Photos';
 
 function App() {
   return (
@@ -31,7 +32,7 @@ function App() {
         <Registry />
         <FAQ />
         <Todo />
-        <RSVP />
+        <Photos />
         <Footer />
       </div>
     </>

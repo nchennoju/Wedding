@@ -11,7 +11,7 @@ function Countdown () {
           countDown = new Date(birthday).getTime(),
           x = setInterval(function() {    
             let now = new Date().getTime(),
-                distance = countDown - now;
+                distance = now - countDown;
     
             document.getElementById("days").innerText = Math.floor(distance / (day));
             document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour));
@@ -19,7 +19,7 @@ function Countdown () {
             document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
     
             //do something later when date is reached
-            if (distance < 0) {
+            /*if (distance < 0) {
               let headline = document.getElementById("headline"),
                   countdown = document.getElementById("countdown"),
                   content = document.getElementById("content");
@@ -29,7 +29,7 @@ function Countdown () {
               content.style.display = "block";
     
               clearInterval(x);
-            }
+            }*/
             //seconds
           }, 0);
           return null;
@@ -44,7 +44,7 @@ function Countdown () {
       <div className='container'>
         <div className='row'>
           <div className='section-head col-md-12'>
-            <h4>We will become a family in</h4>
+            <h4>We've been a family for</h4>
           </div>
         </div>
         <div className='row'>
